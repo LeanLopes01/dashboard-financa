@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.pyc
+session.json
+.env
+.env.*
+!.env.example
+.venv/
+*.log
